@@ -1,4 +1,4 @@
-First, let's create an array of even integers from 30 to 70:
+#First, let's create an array of even integers from 30 to 70:
 import numpy as np
 
 # Create array of even integers from 30 to 70
